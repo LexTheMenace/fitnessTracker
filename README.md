@@ -8,4 +8,4 @@ Start a new workout or continue a previous session, add resistance and cardio ex
 ## Links
 Deployed Application: https://frozen-headland-25672.herokuapp.com/
 ## 
-GitHub Repo: https://frozen-headland-25672.herokuapp.com/
+GitHub Repo: https://github.com/LexTheMenace/fitnessTracker
