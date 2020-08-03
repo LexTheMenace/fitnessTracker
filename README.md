@@ -1,8 +1,10 @@
 # fitnessTracker
 
-##Usage
+## Usage
 Start a new workout or continue a previous session, add resistance and cardio exercises, then complete when finished.
 
+## Image 
+[fitness-tracker](https://github.com/LexTheMenace/fitnessTracker/blob/master/public/fittrackerscrenshot.jpg.png?raw=true)
 ## Links
 Deployed Application: https://frozen-headland-25672.herokuapp.com/
 ## 
