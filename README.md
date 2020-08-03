@@ -1,4 +1,4 @@
-# fitnessTracker
+# Fitness Tracker App
 
 ## Usage
 Start a new workout or continue a previous session, add resistance and cardio exercises, then complete when finished.
